@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 # 이미지 로드
 image = cv2.imread('sample.jpg') # 분석할 이미지 파일
 
