@@ -7,7 +7,7 @@ image_dir = 'your_test_image_paths'
 label_dir = 'your_test_label_paths'
 
 # 결과를 저장할 경로 (선택 사항)
-save_dir = './predict'
+save_dir = './test_label_visualized'
 os.makedirs(save_dir, exist_ok=True)
 
 # 모든 이미지 경로 가져오기
@@ -62,5 +62,6 @@ for img_path in image_paths:
     # 결과 저장 (선택)
     save_path = os.path.join(save_dir, os.path.basename(img_path))
     cv2.imwrite(save_path, image)
+
 
 print("✅ 모든 이미지 시각화 완료")
