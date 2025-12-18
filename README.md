@@ -1,7 +1,9 @@
 <div align=center>
  
 ### 현직 AI 엔지니어와 실전 Computer Vision : Git부터 AI 모델링까지
-<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/fb1f65d1-9a40-48c2-ab6e-448c9a9cdf3f" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/fb1f65d1-9a40-48c2-ab6e-448c9a9cdf3f" />  
+
+<a href="https://comento.kr/edu/learn/ITSW/SW%EA%B0%9C%EB%B0%9C-G3777"><img src="https://img.shields.io/badge/Homepage Link-gray?style=flat-square&logo=logoColor=white&link=https://comento.kr/edu/learn/ITSW/SW%EA%B0%9C%EB%B0%9C-G3777"/></a>
 </div>
 
 ---
